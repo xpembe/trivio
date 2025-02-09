@@ -1,8 +1,8 @@
-from fastapi import APIRouter, status, HTTPException
+from fastapi import APIRouter, HTTPException, status
 from pydantic import ValidationError
 
 # Importing necessary functions and classes from other modules
-from .database import readata, writedata, DatabaseError
+from .database import DatabaseError, readata, writedata
 from .schemas import QuizModel, UpdateQuizModel
 
 # Creating an instance of APIRouter to define route handlers

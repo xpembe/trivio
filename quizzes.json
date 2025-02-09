@@ -2,111 +2,501 @@
     {
         "id": 1,
         "question": "What is the capital of Canada?",
+        "answer": "Ottawa",
         "options": [
             "Ottawa",
             "Toronto",
             "Vancouver"
-        ],
-        "answer": "Ottawa"
+        ]
     },
     {
         "id": 2,
         "question": "Which gas is most abundant in Earth's atmosphere?",
+        "answer": "Nitrogen",
         "options": [
             "Oxygen",
             "Nitrogen",
             "Carbon Dioxide"
-        ],
-        "answer": "Nitrogen"
+        ]
     },
     {
         "id": 3,
         "question": "Who developed the theory of relativity?",
+        "answer": "Albert Einstein",
         "options": [
             "Isaac Newton",
             "Albert Einstein",
             "Galileo Galilei"
-        ],
-        "answer": "Albert Einstein"
+        ]
     },
     {
         "id": 4,
         "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter",
         "options": [
             "Jupiter",
             "Saturn",
             "Neptune"
-        ],
-        "answer": "Jupiter"
+        ]
     },
     {
         "id": 5,
-        "question": "How many sides does a hexagon have?",
+        "question": "count to ten?",
+        "answer": "1",
         "options": [
-            "5",
-            "6",
-            "7"
-        ],
-        "answer": "6"
+            "1",
+            " 2",
+            " 3"
+        ]
     },
     {
         "id": 6,
         "question": "Which ocean is the largest?",
+        "answer": "Pacific Ocean",
         "options": [
             "Atlantic Ocean",
             "Indian Ocean",
             "Pacific Ocean"
-        ],
-        "answer": "Pacific Ocean"
+        ]
     },
     {
         "id": 7,
         "question": "Who invented the telephone?",
+        "answer": "Alexander Graham Bell",
         "options": [
             "Alexander Graham Bell",
             "Thomas Edison",
             "Nikola Tesla"
-        ],
-        "answer": "Alexander Graham Bell"
+        ]
     },
     {
         "id": 8,
-        "question": "What is the smallest unit of life?",
+        "question": "Which element has the chemical symbol 'O'?",
+        "answer": "Oxygen",
         "options": [
-            "Molecule",
-            "Atom",
-            "Cell"
-        ],
-        "answer": "Cell"
+            "Oxygen",
+            "Osmium",
+            "Ozone"
+        ]
     },
     {
         "id": 9,
-        "question": "What is the speed of light?",
+        "question": "Which planet is known as the Red Planet?",
+        "answer": "Mars",
         "options": [
-            "300,000 km/s",
-            "150,000 km/s",
-            "450,000 km/s"
-        ],
-        "answer": "300,000 km/s"
+            "Mars",
+            "Venus",
+            "Mercury"
+        ]
     },
     {
         "id": 10,
-        "question": "What is the capital of Canada??",
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "What is the smallest country in the world?",
+        "answer": "Vatican City",
+        "options": [
+            "Monaco",
+            "Vatican City",
+            "San Marino"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "What is the largest mammal on Earth?",
+        "answer": "Blue Whale",
+        "options": [
+            "African Elephant",
+            "Blue Whale",
+            "Giraffe"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Which is the longest river in the world?",
+        "answer": "Amazon River",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What is the square root of 81?",
+        "answer": "9",
+        "options": [
+            "7",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": "Japan",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "In which year did the Titanic sink?",
+        "answer": "1912",
+        "options": [
+            "1905",
+            "1912",
+            "1923"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "What is the chemical symbol for Gold?",
+        "answer": "Au",
+        "options": [
+            "Ag",
+            "Au",
+            "Pb"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "What is the largest organ in the human body?",
+        "answer": "Skin",
+        "options": [
+            "Heart",
+            "Liver",
+            "Skin"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Which planet is known as the Morning Star or the Evening Star?",
+        "answer": "Venus",
+        "options": [
+            "Venus",
+            "Mercury",
+            "Mars"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "What is the hardest natural substance on Earth?",
+        "answer": "Diamond",
+        "options": [
+            "Gold",
+            "Diamond",
+            "Platinum"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "Who is the author of 'Harry Potter'?",
+        "answer": "J.K. Rowling",
+        "options": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "George R.R. Martin"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "What is the smallest bone in the human body?",
+        "answer": "Stapes (Ear bone)",
+        "options": [
+            "Stapes (Ear bone)",
+            "Femur",
+            "Radius"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answer": "Amelia Earhart",
+        "options": [
+            "Amelia Earhart",
+            "Bessie Coleman",
+            "Harriet Quimby"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "What is the currency of Japan?",
+        "answer": "Yen",
+        "options": [
+            "Yuan",
+            "Won",
+            "Yen"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "What is the most common element in the Earth's crust?",
+        "answer": "Oxygen",
+        "options": [
+            "Silicon",
+            "Oxygen",
+            "Iron"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "Who was the first president of the United States?",
+        "answer": "George Washington",
+        "options": [
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "George Washington"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Which organ in the human body is responsible for producing insulin?",
+        "answer": "Pancreas",
+        "options": [
+            "Liver",
+            "Pancreas",
+            "Kidney"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Which planet is closest to the sun?",
+        "answer": "Mercury",
+        "options": [
+            "Earth",
+            "Mercury",
+            "Venus"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "What is the largest desert in the world?",
+        "answer": "Antarctic Desert",
+        "options": [
+            "Sahara Desert",
+            "Arabian Desert",
+            "Antarctic Desert"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "Who discovered penicillin?",
+        "answer": "Alexander Fleming",
+        "options": [
+            "Marie Curie",
+            "Louis Pasteur",
+            "Alexander Fleming"
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Which animal is known as the King of the Jungle?",
+        "answer": "Lion",
+        "options": [
+            "Elephant",
+            "Lion",
+            "Tiger"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "Which is the longest running TV show in the world?",
+        "answer": "The Simpsons",
+        "options": [
+            "The Simpsons",
+            "The Tonight Show",
+            "Doctor Who"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "What is the main ingredient in guacamole?",
+        "answer": "Avocado",
+        "options": [
+            "Tomato",
+            "Avocado",
+            "Lime"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "What is the national sport of Canada?",
+        "answer": "Hockey",
+        "options": [
+            "Baseball",
+            "Hockey",
+            "Lacrosse"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "In what year did World War II end?",
+        "answer": "1945",
+        "options": [
+            "1940",
+            "1945",
+            "1950"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "What is the capital of Australia?",
+        "answer": "Canberra",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "Which famous scientist developed the laws of motion?",
+        "answer": "Isaac Newton",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Which country is known for the pyramids?",
+        "answer": "Egypt",
+        "options": [
+            "Mexico",
+            "Egypt",
+            "India"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Which animal is capable of flying?",
+        "answer": "Bat",
+        "options": [
+            "Penguin",
+            "Bat",
+            "Koala"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "Which fruit is known for having its seeds on the outside?",
+        "answer": "Strawberry",
+        "options": [
+            "Strawberry",
+            "Blueberry",
+            "Raspberry"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "What is the largest ocean on Earth?",
+        "answer": "Pacific Ocean",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": "William Shakespeare",
+        "options": [
+            "William Shakespeare",
+            "Jane Austen",
+            "Charles Dickens"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O",
+        "options": [
+            "H2O",
+            "CO2",
+            "O2"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": "Japan",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea"
+        ]
+    },
+    {
+        "id": 45,
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Who developed the theory of relativity?",
+        "answer": "Albert Einstein",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "answer": "Nitrogen",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "What is the capital of Canada?",
+        "answer": "Ottawa",
         "options": [
             "Ottawa",
             "Toronto",
             "Vancouver"
-        ],
-        "answer": "Ottawa"
+        ]
     },
     {
-        "id": 118,
-        "question": "dshfhjdkj",
-        "answer": "diuhfds",
+        "id": 49,
+        "question": "What is the smallest country in the world?",
+        "answer": "Vatican City",
         "options": [
-            "skjdf",
-            " dsjgf",
-            " sjhd"
+            "Monaco",
+            "Vatican City",
+            "San Marino"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci"
         ]
     }
 ]

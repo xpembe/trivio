@@ -140,7 +140,7 @@ The server will start running at <http://localhost:8000>.
 - Run the CLI:
 
   ```bash
-  python app/src/main.py
+  python src/main.py
   ```
 
 The CLI will provide options to interact with the API, such as getting all quizzes, creating a new quiz, getting a quiz by ID, updating a quiz, and deleting a quiz.

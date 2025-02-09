@@ -13,7 +13,7 @@ app = FastAPI(
 
 # Include the router from the routes module
 app.include_router(
-    routes.router,  # The router to include
+    router=routes.router,  # The router to include
     prefix=f"/api/{VERSION}/quizzes",  # Prefix for all routes in this router
     tags=["quizzes"],  # Tags for the routes in this router
 )
