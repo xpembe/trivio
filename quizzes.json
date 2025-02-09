@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of Canada?",
+        "options": [
+            "Ottawa",
+            "Toronto",
+            "Vancouver"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "id": 2,
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": 3,
+        "question": "Who developed the theory of relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "id": 4,
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "id": 5,
+        "question": "How many sides does a hexagon have?",
+        "options": [
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 6,
+        "question": "Which ocean is the largest?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "id": 7,
+        "question": "Who invented the telephone?",
+        "options": [
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Nikola Tesla"
+        ],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "id": 8,
+        "question": "What is the smallest unit of life?",
+        "options": [
+            "Molecule",
+            "Atom",
+            "Cell"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "id": 9,
+        "question": "What is the speed of light?",
+        "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "450,000 km/s"
+        ],
+        "answer": "300,000 km/s"
+    },
+    {
+        "id": 10,
+        "question": "What is the capital of Canada??",
+        "options": [
+            "Ottawa",
+            "Toronto",
+            "Vancouver"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "id": 118,
+        "question": "dshfhjdkj",
+        "answer": "diuhfds",
+        "options": [
+            "skjdf",
+            " dsjgf",
+            " sjhd"
+        ]
+    }
+]
