@@ -1,3 +1,7 @@
+from sqlalchemy.ext.asyncio import AsyncEngine
+from sqlmodel import SQLModel, create_engine
+from app.config import Config
+
 import json
 
 # Path to the JSON file that stores quiz data
@@ -48,3 +52,17 @@ def writedata(data: list) -> None:
     except IOError as err:
         # Raise a custom DatabaseError if an IOError occurs
         raise DatabaseError(f"An unexpected error occurred: {str(err)}")
+
+
+# Connection to the database
+engine = AsyncEngine(create_engine(url=Config.DATABASE_URL, echo=True))
+
+
+async def init_db():
+    """
+    Initiate and create tables in the database.
+    """
+    async with engine.begin() as conn:
+        from .models import Quiz
+
+        await conn.run_sync(SQLModel.metadata.create_all)
